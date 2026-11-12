@@ -2,7 +2,7 @@
 
 Landing page de una empresa de reformas ficticia en Granada. Es un proyecto demostrativo: el negocio, el teléfono y el email no existen.
 
-**Demo:** [URL de Cloudflare Pages]
+**Demo:** https://demo-albanil.pages.dev/
 
 ## Objetivo
 
