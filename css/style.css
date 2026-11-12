@@ -87,7 +87,7 @@ h1, h2, h3 { font-family: var(--font-heading); line-height: 1.2; color: var(--co
   min-height: 100vh; min-height: 100svh;
   display: flex; align-items: center; justify-content: center;
   text-align: center; padding: calc(var(--header-h) + 20px) 20px 40px;
-  background: linear-gradient(var(--color-overlay), var(--color-overlay)), url("../images/hero.svg") center / cover no-repeat;
+  background: linear-gradient(var(--color-overlay), var(--color-overlay)), url("../images/hero.webp") center / cover no-repeat;
 }
 .hero-content { max-width: 750px; color: #fff; }
 .hero h1 { font-size: var(--fs-800); color: #fff; margin-bottom: 16px; }
@@ -221,4 +221,12 @@ h1, h2, h3 { font-family: var(--font-heading); line-height: 1.2; color: var(--co
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+
+.hero h1 {
+  text-shadow: 0 2px 16px rgba(0, 0, 0, .55), 0 1px 3px rgba(0, 0, 0, .6);
+}
+.hero p,
+.hero-features {
+  text-shadow: 0 1px 10px rgba(0, 0, 0, .65);
 }

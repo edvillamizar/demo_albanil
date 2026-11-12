@@ -54,4 +54,7 @@ HTML5 · CSS3 (Grid, Flexbox, variables) · JavaScript sin librerías
 ## Autor
 
 Edwin Alejandro · Desarrollador Web Front End Junior · Granada
-[Portfolio](https://portfolio-edwin-alejandro-villamizar.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/edwinvillamizardiaz)
+[Portfolio](https://portfolio-edwin-alejandro-villamizar.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/edwinvillamizardiaz)  
+
+## Créditos  
+Foto de <a href="https://unsplash.com/es/@sasun1990?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sasun Bughdaryan</a> en <a href="https://unsplash.com/es/fotos/manos-aplicando-yeso-en-una-pared-con-paletas-Re1O5byZ8bY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
